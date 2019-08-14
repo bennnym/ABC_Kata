@@ -1,0 +1,11 @@
+/Users/ben.muller/RiderProjects/Myob.Fma/Myob.Fma.AbcKata/bin/Debug/netcoreapp2.2/Myob.Fma.AbcKata.deps.json
+/Users/ben.muller/RiderProjects/Myob.Fma/Myob.Fma.AbcKata/bin/Debug/netcoreapp2.2/Myob.Fma.AbcKata.runtimeconfig.json
+/Users/ben.muller/RiderProjects/Myob.Fma/Myob.Fma.AbcKata/bin/Debug/netcoreapp2.2/Myob.Fma.AbcKata.runtimeconfig.dev.json
+/Users/ben.muller/RiderProjects/Myob.Fma/Myob.Fma.AbcKata/bin/Debug/netcoreapp2.2/Myob.Fma.AbcKata.dll
+/Users/ben.muller/RiderProjects/Myob.Fma/Myob.Fma.AbcKata/bin/Debug/netcoreapp2.2/Myob.Fma.AbcKata.pdb
+/Users/ben.muller/RiderProjects/Myob.Fma/Myob.Fma.AbcKata/obj/Debug/netcoreapp2.2/Myob.Fma.AbcKata.csprojAssemblyReference.cache
+/Users/ben.muller/RiderProjects/Myob.Fma/Myob.Fma.AbcKata/obj/Debug/netcoreapp2.2/Myob.Fma.AbcKata.csproj.CoreCompileInputs.cache
+/Users/ben.muller/RiderProjects/Myob.Fma/Myob.Fma.AbcKata/obj/Debug/netcoreapp2.2/Myob.Fma.AbcKata.AssemblyInfoInputs.cache
+/Users/ben.muller/RiderProjects/Myob.Fma/Myob.Fma.AbcKata/obj/Debug/netcoreapp2.2/Myob.Fma.AbcKata.AssemblyInfo.cs
+/Users/ben.muller/RiderProjects/Myob.Fma/Myob.Fma.AbcKata/obj/Debug/netcoreapp2.2/Myob.Fma.AbcKata.dll
+/Users/ben.muller/RiderProjects/Myob.Fma/Myob.Fma.AbcKata/obj/Debug/netcoreapp2.2/Myob.Fma.AbcKata.pdb
